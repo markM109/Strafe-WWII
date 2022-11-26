@@ -1,0 +1,7 @@
+To play the game open the executable e.i. the file with the '.exe' extension.
+
+IMPORTANT
+This execuatable must be kept within the same file directory as the 'Assets' folder.
+Otherwise when opening the executable you will receive a nasty error message.
+
+Enjoy!
